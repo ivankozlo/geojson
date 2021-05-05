@@ -1,509 +1,218 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Christin"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.88256835937499,
-          39.8928799002948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Deidre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.42443084716797,
-          37.79920474721051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Leilah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.46992111206055,
-          37.77505678240509
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Frederique"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.43627548217773,
-          37.74329970164701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Gwenore"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.49000549316408,
-          37.72361432799384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Juana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.42357254028322,
-          37.69604601332987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Georgine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.54425048828125,
-          37.86509663749013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Karly"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.46047973632812,
-          37.88731847929118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Glynis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.27371215820312,
-          37.84232584933158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Hedda"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.21466064453125,
-          37.78156937014928
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Annice"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.07183837890625,
-          37.82280243352756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Gloriane"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.08625793457031,
-          37.67132087507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Allyce"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.40692138671874,
-          37.51190453731693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Elizabeth"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.70904541015625,
-          38.089174937729794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Basia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.03564453125,
-          40.763901280945866
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Esther"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.1455078125,
-          40.38839687388361
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Gwyneth"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.22265625000001,
-          39.444677580473424
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Eadie"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.20068359374999,
-          41.53325414281322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Julianne"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.22265625000001,
-          40.60561205826018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Drusy"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.453857421875,
-          38.74551518488265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Corella"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.35498046875,
-          38.47079371120379
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Chrysa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.212158203125,
-          38.41055825094609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Allys"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.53076171875,
-          36.677230602346214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Hope"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.55297851562499,
-          35.290468565908775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Gloriane"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.90478515625,
-          34.67839374011646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Carie"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.39916992187499,
-          34.67839374011646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Gui"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.674072265625,
-          34.57895241036948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Aleda"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.157958984375,
-          34.23451236236987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Gerry"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.10302734374999,
-          34.043556504127444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Annette"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.564453125,
-          34.37064492478658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Carmelle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.53286743164062,
-          34.2140734536726
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Albertine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2403564453125,
-          33.86699475113557
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Hillary"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.88604736328124,
-          33.77115672832911
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Elbertine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.520751953125,
-          34.075412438417395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Janey"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.22686767578125,
-          33.796267541909884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "customer",
-        "name": "Christian"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.1806640625,
-          33.137551192346145
-        ]
-      }
-    }
-  ]
-}
+[
+  {
+    "name": "Christin",
+    "long": -120.8826,
+    "lat": 39.8928,
+    "marker": "🤵"
+  },
+  {
+    "name": "Deidre",
+    "long": -122.4245,
+    "lat": 37.7992,
+    "marker": "🤵"
+  },
+  {
+    "name": "Leilah",
+    "long": -122.47,
+    "lat": 37.775,
+    "marker": "🤵"
+  },
+  {
+    "name": "Frederique",
+    "long": -122.4363,
+    "lat": 37.7432,
+    "marker": "🤵"
+  },
+  {
+    "name": "Gwenore",
+    "long": -122.4901,
+    "lat": 37.7236,
+    "marker": "🤵"
+  },
+  {
+    "name": "Juana",
+    "long": -122.4236,
+    "lat": 37.696,
+    "marker": "🤵"
+  },
+  {
+    "name": "Georgine",
+    "long": -122.5443,
+    "lat": 37.865,
+    "marker": "🤵"
+  },
+  {
+    "name": "Karly",
+    "long": -122.4605,
+    "lat": 37.8873,
+    "marker": "🤵"
+  },
+  {
+    "name": "Glynis",
+    "long": -122.2738,
+    "lat": 37.8423,
+    "marker": "🤵"
+  },
+  {
+    "name": "Hedda",
+    "long": -122.2147,
+    "lat": 37.7815,
+    "marker": "🤵"
+  },
+  {
+    "name": "Annice",
+    "long": -122.0719,
+    "lat": 37.8228,
+    "marker": "🤵"
+  },
+  {
+    "name": "Gloriane",
+    "long": -122.0863,
+    "lat": 37.6713,
+    "marker": "🤵"
+  },
+  {
+    "name": "Allyce",
+    "long": -122.407,
+    "lat": 37.5119,
+    "marker": "🤵"
+  },
+  {
+    "name": "Elizabeth",
+    "long": -122.7091,
+    "lat": 38.0891,
+    "marker": "🤵"
+  },
+  {
+    "name": "Basia",
+    "long": -124.0357,
+    "lat": 40.7639,
+    "marker": "🤵"
+  },
+  {
+    "name": "Esther",
+    "long": -124.1456,
+    "lat": 40.3883,
+    "marker": "🤵"
+  },
+  {
+    "name": "Gwyneth",
+    "long": -123.2227,
+    "lat": 39.4446,
+    "marker": "🤵"
+  },
+  {
+    "name": "Eadie",
+    "long": -123.2007,
+    "lat": 41.5332,
+    "marker": "🤵"
+  },
+  {
+    "name": "Julianne",
+    "long": -123.2227,
+    "lat": 40.6056,
+    "marker": "🤵"
+  },
+  {
+    "name": "Drusy",
+    "long": -121.4539,
+    "lat": 38.7455,
+    "marker": "🤵"
+  },
+  {
+    "name": "Corella",
+    "long": -121.355,
+    "lat": 38.4707,
+    "marker": "🤵"
+  },
+  {
+    "name": "Chrysa",
+    "long": -121.2122,
+    "lat": 38.4105,
+    "marker": "🤵"
+  },
+  {
+    "name": "Allys",
+    "long": -121.5308,
+    "lat": 36.6772,
+    "marker": "🤵"
+  },
+  {
+    "name": "Hope",
+    "long": -120.553,
+    "lat": 35.2904,
+    "marker": "🤵"
+  },
+  {
+    "name": "Gloriane",
+    "long": -119.9048,
+    "lat": 34.6783,
+    "marker": "🤵"
+  },
+  {
+    "name": "Carie",
+    "long": -120.3992,
+    "lat": 34.6783,
+    "marker": "🤵"
+  },
+  {
+    "name": "Gui",
+    "long": -119.6741,
+    "lat": 34.5789,
+    "marker": "🤵"
+  },
+  {
+    "name": "Aleda",
+    "long": -118.158,
+    "lat": 34.2345,
+    "marker": "🤵"
+  },
+  {
+    "name": "Gerry",
+    "long": -118.1031,
+    "lat": 34.0435,
+    "marker": "🤵"
+  },
+  {
+    "name": "Annette",
+    "long": -118.5645,
+    "lat": 34.3706,
+    "marker": "🤵"
+  },
+  {
+    "name": "Carmelle",
+    "long": -118.5329,
+    "lat": 34.214,
+    "marker": "🤵"
+  },
+  {
+    "name": "Albertine",
+    "long": -118.2404,
+    "lat": 33.8669,
+    "marker": "🤵"
+  },
+  {
+    "name": "Hillary",
+    "long": -117.8861,
+    "lat": 33.7711,
+    "marker": "🤵"
+  },
+  {
+    "name": "Elbertine",
+    "long": -117.5208,
+    "lat": 34.0754,
+    "marker": "🤵"
+  },
+  {
+    "name": "Janey",
+    "long": -117.2269,
+    "lat": 33.7962,
+    "marker": "🤵"
+  },
+  {
+    "name": "Christian",
+    "long": -115.1807,
+    "lat": 33.1375,
+    "marker": "🤵"
+  }
+]
