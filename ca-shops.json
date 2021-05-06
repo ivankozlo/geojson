@@ -1,164 +1,191 @@
 [
   {
     "name": "Android Monster",
+    "type": "store",
     "long": -122.4509,
     "lat": 37.7555,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Fence Website",
+    "type": "store",
     "long": -122.4444,
     "lat": 37.6696,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Toolbox Allergies",
+    "type": "store",
     "long": -122.4111,
     "lat": 37.6514,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Clock Boat",
+    "type": "store",
     "long": -122.3352,
     "lat": 37.5679,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Cone YouTube",
+    "type": "store",
     "long": -121.9263,
     "lat": 37.2959,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Android Monster",
+    "type": "store",
     "long": -122.3273,
     "lat": 37.9441,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Drugs Robot",
+    "type": "store",
     "long": -122.2339,
     "lat": 38.1345,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Fusion Puppy",
+    "type": "store",
     "long": -121.4484,
     "lat": 38.5932,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Prints Flowers",
+    "type": "store",
     "long": -121.3331,
     "lat": 38.6554,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Comics Android",
+    "type": "store",
     "long": -121.3111,
     "lat": 37.9593,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Bird Light",
+    "type": "store",
     "long": -121.0117,
     "lat": 37.6359,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Website Nuclear",
+    "type": "store",
     "long": -119.8197,
     "lat": 36.7476,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Sink Cat",
+    "type": "store",
     "long": -119.0781,
     "lat": 35.3935,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Nuclear Mail",
+    "type": "store",
     "long": -118.2734,
     "lat": 34.0481,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Website Monster",
+    "type": "store",
     "long": -118.2129,
     "lat": 33.7951,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Urine Shoe",
+    "type": "store",
     "long": -117.8586,
     "lat": 33.754,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Trees Laptop",
+    "type": "store",
     "long": -117.3011,
     "lat": 34.0594,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Mail Bird",
+    "type": "store",
     "long": -117.9081,
     "lat": 34.0617,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Water Hnads",
+    "type": "store",
     "long": -117.1335,
     "lat": 32.778,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Soap Cat",
+    "type": "store",
     "long": -116.3645,
     "lat": 33.7631,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Water Hnads",
+    "type": "store",
     "long": -122.4097,
     "lat": 40.5346,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Toolbox Body",
+    "type": "store",
     "long": -120.9156,
     "lat": 40.38,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "BBQ Comics",
+    "type": "store",
     "long": -124.1291,
     "lat": 41.7917,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Toolbox Poop",
+    "type": "store",
     "long": -123.7391,
     "lat": 39.347,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Shelf Fusion",
+    "type": "store",
     "long": -121.7011,
     "lat": 36.7476,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Water Shower",
+    "type": "store",
     "long": -121.1435,
     "lat": 36.1933,
-    "marker": "🏢"
+    "marker": "🛒"
   },
   {
     "name": "Soda Mail",
+    "type": "store",
     "long": -119.177,
     "lat": 34.2027,
-    "marker": "🏢"
+    "marker": "🛒"
   }
 ]

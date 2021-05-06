@@ -1,216 +1,252 @@
 [
   {
     "name": "Christin",
+    "type": "customer",
     "long": -120.8826,
     "lat": 39.8928,
     "marker": "🤵"
   },
   {
     "name": "Deidre",
+    "type": "customer",
     "long": -122.4245,
     "lat": 37.7992,
     "marker": "🤵"
   },
   {
     "name": "Leilah",
+    "type": "customer",
     "long": -122.47,
     "lat": 37.775,
     "marker": "🤵"
   },
   {
     "name": "Frederique",
+    "type": "customer",
     "long": -122.4363,
     "lat": 37.7432,
     "marker": "🤵"
   },
   {
     "name": "Gwenore",
+    "type": "customer",
     "long": -122.4901,
     "lat": 37.7236,
     "marker": "🤵"
   },
   {
     "name": "Juana",
+    "type": "customer",
     "long": -122.4236,
     "lat": 37.696,
     "marker": "🤵"
   },
   {
     "name": "Georgine",
+    "type": "customer",
     "long": -122.5443,
     "lat": 37.865,
     "marker": "🤵"
   },
   {
     "name": "Karly",
+    "type": "customer",
     "long": -122.4605,
     "lat": 37.8873,
     "marker": "🤵"
   },
   {
     "name": "Glynis",
+    "type": "customer",
     "long": -122.2738,
     "lat": 37.8423,
     "marker": "🤵"
   },
   {
     "name": "Hedda",
+    "type": "customer",
     "long": -122.2147,
     "lat": 37.7815,
     "marker": "🤵"
   },
   {
     "name": "Annice",
+    "type": "customer",
     "long": -122.0719,
     "lat": 37.8228,
     "marker": "🤵"
   },
   {
     "name": "Gloriane",
+    "type": "customer",
     "long": -122.0863,
     "lat": 37.6713,
     "marker": "🤵"
   },
   {
     "name": "Allyce",
+    "type": "customer",
     "long": -122.407,
     "lat": 37.5119,
     "marker": "🤵"
   },
   {
     "name": "Elizabeth",
+    "type": "customer",
     "long": -122.7091,
     "lat": 38.0891,
     "marker": "🤵"
   },
   {
     "name": "Basia",
+    "type": "customer",
     "long": -124.0357,
     "lat": 40.7639,
     "marker": "🤵"
   },
   {
     "name": "Esther",
+    "type": "customer",
     "long": -124.1456,
     "lat": 40.3883,
     "marker": "🤵"
   },
   {
     "name": "Gwyneth",
+    "type": "customer",
     "long": -123.2227,
     "lat": 39.4446,
     "marker": "🤵"
   },
   {
     "name": "Eadie",
+    "type": "customer",
     "long": -123.2007,
     "lat": 41.5332,
     "marker": "🤵"
   },
   {
     "name": "Julianne",
+    "type": "customer",
     "long": -123.2227,
     "lat": 40.6056,
     "marker": "🤵"
   },
   {
     "name": "Drusy",
+    "type": "customer",
     "long": -121.4539,
     "lat": 38.7455,
     "marker": "🤵"
   },
   {
     "name": "Corella",
+    "type": "customer",
     "long": -121.355,
     "lat": 38.4707,
     "marker": "🤵"
   },
   {
     "name": "Chrysa",
+    "type": "customer",
     "long": -121.2122,
     "lat": 38.4105,
     "marker": "🤵"
   },
   {
     "name": "Allys",
+    "type": "customer",
     "long": -121.5308,
     "lat": 36.6772,
     "marker": "🤵"
   },
   {
     "name": "Hope",
+    "type": "customer",
     "long": -120.553,
     "lat": 35.2904,
     "marker": "🤵"
   },
   {
     "name": "Gloriane",
+    "type": "customer",
     "long": -119.9048,
     "lat": 34.6783,
     "marker": "🤵"
   },
   {
     "name": "Carie",
+    "type": "customer",
     "long": -120.3992,
     "lat": 34.6783,
     "marker": "🤵"
   },
   {
     "name": "Gui",
+    "type": "customer",
     "long": -119.6741,
     "lat": 34.5789,
     "marker": "🤵"
   },
   {
     "name": "Aleda",
+    "type": "customer",
     "long": -118.158,
     "lat": 34.2345,
     "marker": "🤵"
   },
   {
     "name": "Gerry",
+    "type": "customer",
     "long": -118.1031,
     "lat": 34.0435,
     "marker": "🤵"
   },
   {
     "name": "Annette",
+    "type": "customer",
     "long": -118.5645,
     "lat": 34.3706,
     "marker": "🤵"
   },
   {
     "name": "Carmelle",
+    "type": "customer",
     "long": -118.5329,
     "lat": 34.214,
     "marker": "🤵"
   },
   {
     "name": "Albertine",
+    "type": "customer",
     "long": -118.2404,
     "lat": 33.8669,
     "marker": "🤵"
   },
   {
     "name": "Hillary",
+    "type": "customer",
     "long": -117.8861,
     "lat": 33.7711,
     "marker": "🤵"
   },
   {
     "name": "Elbertine",
+    "type": "customer",
     "long": -117.5208,
     "lat": 34.0754,
     "marker": "🤵"
   },
   {
     "name": "Janey",
+    "type": "customer",
     "long": -117.2269,
     "lat": 33.7962,
     "marker": "🤵"
   },
   {
     "name": "Christian",
+    "type": "customer",
     "long": -115.1807,
     "lat": 33.1375,
     "marker": "🤵"
